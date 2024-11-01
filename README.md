@@ -46,4 +46,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or feedback, please open an issue in the repository.
 
 ## Credit
-Thanks to Julian Bayle for the decompiled MIDI Remote Scripts (https://github.com/gluon/AbletonLive11_MIDIRemoteScripts)
+Thanks to Julian Bayle for the decompiled MIDI Remote Scripts: https://github.com/gluon/AbletonLive11_MIDIRemoteScripts
