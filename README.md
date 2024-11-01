@@ -27,8 +27,8 @@ This project provides a custom script designed to enhance the Backstair Live Log
 - **Record Clip**: Press buttons 1 to 4 to record a new clip to the according track
 - **Stop Clip**: Hold down buttons 1 to 4 to stop a playing clip in the according track
 - **Delete Clip**: Double click buttons 1 to 4 to delete a clip in the according track
-- **Increment Bank**: Click button 6 to go up one bank. When incremented once, the buttons 1 to 4 now refer to the tracks 2 to 5.
-- **Decrement Bank**: Click button 5 to go down one bank. When you had selected tracks 2 to 5 before, buttons 1 to 4 now refer again to the first four tracks.
+- **Increment Bank**: Click button 6 to go up one bank. When incremented once, the buttons 1 to 4 now refer to the tracks 2 to 5. Press and hold button 6 to go up four banks immediately.
+- **Decrement Bank**: Click button 5 to go down one bank. When you had selected tracks 2 to 5 before, buttons 1 to 4 now refer again to the first four tracks. Press and hold button 5 to go down four banks immediately.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
