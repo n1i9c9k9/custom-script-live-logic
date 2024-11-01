@@ -43,4 +43,4 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or feedback, please reach out via n.huebenthal99@web.de or open an issue in the repository.
+For any questions or feedback, please open an issue in the repository.
